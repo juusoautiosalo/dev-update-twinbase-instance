@@ -1,4 +1,4 @@
-baseurl: https://juusoautiosalo.github.io/dev-update-twinbase-template
+baseurl: https://juusoautiosalo.github.io/dev-update-twinbase-instance
 owner:
   dt-id: http://d-t.fi/juuso
 update-info:
@@ -6,8 +6,8 @@ update-info:
   version:
     target: latest
   example-twin: example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
-repo_url: https://github.com/juusoautiosalo/dev-update-twinbase-template
-new_twin_url: https://github.com/juusoautiosalo/dev-update-twinbase-template/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
+repo_url: https://github.com/juusoautiosalo/dev-update-twinbase-instance
+new_twin_url: https://github.com/juusoautiosalo/dev-update-twinbase-instance/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
-- url: https://juusoautiosalo.github.io/dev-update-twinbase-template/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
+- url: https://juusoautiosalo.github.io/dev-update-twinbase-instance/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
